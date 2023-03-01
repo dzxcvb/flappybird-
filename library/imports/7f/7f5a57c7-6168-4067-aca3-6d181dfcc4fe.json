@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "heli",
+    "texture": "d7750d99-acc8-4cfa-9e4e-6591c08e4ee7",
+    "atlas": "",
+    "rect": [
+      12,
+      0,
+      275,
+      108
+    ],
+    "offset": [
+      0.5,
+      4
+    ],
+    "originalSize": [
+      298,
+      116
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
